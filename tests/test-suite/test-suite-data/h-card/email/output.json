@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "type": [
+        "h-card"
+      ],
+      "properties": {
+        "photo": [
+          "http://example.org/photo.png"
+        ],
+        "name": [
+          "Joe Bloggs"
+        ],
+        "url": [
+          "http://example.org"
+        ],
+        "email": [
+          "mailto:joebloggs@example.com"
+        ],
+        "street-address": [
+          "17 Austerstræti"
+        ],
+        "locality": [
+          "Reykjavík"
+        ],
+        "country-name": [
+          "Iceland"
+        ]
+      }
+    }
+  ]
+}
